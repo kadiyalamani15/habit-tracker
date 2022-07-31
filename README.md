@@ -13,6 +13,8 @@
 
 ### User Experience
 
+<br>
+
 <p align="center">
   <img src="UX_UI.png">
 </p>
@@ -24,3 +26,8 @@
 <p align="center">
   <img src="Add_New.png">
 </p>
+
+Home                       |      Habit Completed      |    Add New Habit  
+:-------------------------:|:-------------------------:|:---------------------:
+![Home](UX_UI.png)  |  ![Completed](Completed.png) | ![Add_New](Add_New.png)
+
