@@ -14,7 +14,7 @@
 ### User Experience
 
 <p align="center">
-  <img src="UI:UX.png">
+  <img src="UX:UI.png">
 </p>
 
 <p align="center">
