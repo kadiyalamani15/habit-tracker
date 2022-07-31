@@ -15,7 +15,7 @@
 
 <br>
 
-        Home        |        Habit Completed       |     Add New Habit  
+   Home             |        Habit Completed       |     Add New Habit  
 :------------------:|:----------------------------:|:---------------------:
 ![Home](UX_UI.png)  |  ![Completed](Completed.png) | ![Add_New](Add_New.png)
 
